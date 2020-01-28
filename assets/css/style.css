@@ -1,0 +1,64 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    background: #ffffff;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    padding: 15px;
+}
+header{
+    /* border-bottom: 2px solid darkgrey; */
+    color: white;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    background: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+.container {
+
+}
+
+h1 {
+    color: #ffffff;
+    background: #4aaaa5;
+    text-align: center;
+    padding: 35px;
+    
+}
+
+h2 {
+    color: #4aaaa5;
+}
+
+footer {
+    background: #666666;
+    height: 50px;
+    border-top: 10px solid #4aaaa5;
+}
+ /*
+   * Main header border color: `#cccccc`
+   * Footer background color: `#666666`
+   * Main content background color: `#ffffff`
+   * Main content border color: `#dddddd`
+
+2. Fonts:
+   * For heading fonts use `font-family: 'Georgia', Times, Times New Roman, serif;`.
+   * For all other fonts use `'Arial', 'Helvetica Neue', Helvetica, sans-serif;`.
+   3. Make a "sticky footer." You will notice the dark grey footer will always rest just below the content. 
+   * Try to code the footer in a way that it will always remain at the bottom of the page, no matter how short the content is. A sticky footer tutorial 
+   * Give the Footer the following CSS:
+   * border-top: 8px solid #4aaaa5;
