@@ -24,7 +24,6 @@ html {
 }
 
 header {
-    /* border-bottom: 2px solid darkgrey; */
     color: white;
     background: #ffffff;
     display: flex;
@@ -38,6 +37,9 @@ a {
 
 }
 
+#weblink {
+    font-weight: bold;
+}
 h1 {
     color: #ffffff;
     background: #4aaaa5;
@@ -81,6 +83,7 @@ footer {
 p {
     line-height: 2;
     text-align: justify;
+    padding-bottom: 20px;;
 }
 
 img {
