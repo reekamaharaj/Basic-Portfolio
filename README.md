@@ -10,5 +10,5 @@ This is a very basic portfolio page build with CSS and HTML. The page is also mo
 
 ![](assets/images/portfolioscreenshot.png)
 
-## Role in Development
+### Role in Development
 HTML and CSS styling.
