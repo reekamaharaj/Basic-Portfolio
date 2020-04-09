@@ -7,6 +7,7 @@ This is a very basic portfolio page build with CSS and HTML. The page is also mo
 ## Tech used
 - HTML
 - CSS
+- Visual Studio
 
 ![](assets/images/portfolioscreenshot.png)
 
